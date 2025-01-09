@@ -1,0 +1,10 @@
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\bin\Debug\ProjectC#_Car_Catalog.exe.config
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\bin\Debug\ProjectC#_Car_Catalog.exe
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\bin\Debug\ProjectC#_Car_Catalog.pdb
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC#_Car_Catalog.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC__Car_Catalog.Form1.resources
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC__Car_Catalog.Properties.Resources.resources
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC#_Car_Catalog.csproj.GenerateResource.cache
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC#_Car_Catalog.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC#_Car_Catalog.exe
+C:\Users\paulo\Documents\Workspaces\C#Workspace\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\ProjectC#_Car_Catalog\obj\Debug\ProjectC#_Car_Catalog.pdb
